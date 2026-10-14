@@ -6,10 +6,10 @@
 - 👯 I’m looking to collaborate on **WIP**
 
 - 💬 Ask me about **Backend,Scale,Fixing Stuff, Java...**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/ruferiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ruferiz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@rustoffe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ruferiz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/baked7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="baked7" height="30" width="40" /></a>
 </p>
 
